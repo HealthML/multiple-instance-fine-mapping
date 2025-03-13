@@ -1,1 +1,1 @@
-# mifm
+# Multiple Instance Fine-mapping
