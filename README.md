@@ -2,9 +2,9 @@
 *"Multiple instance fine-mapping: predicting causal regulatory variants with a deep sequence model"*
 
 This repository contains:
-- script for training an MIFM model: [src/train.py](src/train.py)
+- a script for training an MIFM model: [src/train.py](src/train.py)
 - weights for an already trained model used for the experiments in the paper: [checkpoints/a7a0q7ar.ckpt](checkpoints/a7a0q7ar.ckpt)
-- script for making predictions using a pretrained model: [src/load_and_predict.py](src/load_and_predict.py)
+- a script for making predictions using a pretrained model: [src/load_and_predict.py](src/load_and_predict.py)
 - example files for the prediction script: [example_data](example_data)
 
 ## Predicting using a pretrained model:
