@@ -1,6 +1,9 @@
 # Multiple Instance Fine-mapping (MIFM)
 *"Multiple instance fine-mapping: predicting causal regulatory variants with a deep sequence model"*
 
+![Method diagram](method_diagram.png)
+
+
 This repository contains:
 - a script for training an MIFM model: [src/train.py](src/train.py)
 - weights for an already trained model used for the experiments in the paper: [checkpoints/a7a0q7ar.ckpt](checkpoints/a7a0q7ar.ckpt)
