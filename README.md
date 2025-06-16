@@ -1,5 +1,5 @@
 # Multiple Instance Fine-mapping (MIFM)
-*"Multiple instance fine-mapping: predicting causal regulatory variants with a deep sequence model"*
+*"Multiple instance fine-mapping: predicting causal regulatory variants with a deep sequence model"* [preprint](https://www.medrxiv.org/content/10.1101/2025.06.13.25329551v1)
 
 ![Method diagram](method_diagram.png)
 
