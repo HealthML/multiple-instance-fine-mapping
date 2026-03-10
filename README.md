@@ -24,3 +24,8 @@ python src/load_and_predict.py \
   --out_file=out.txt \
   --sequences_file=example_data/sequences.csv
 ```
+
+## Reproducing experimental results:
+Experiments from the paper can be reproduced using the appropriate Snakemake rules, e.g., the rule `all_evaluate_scores_secondary_signals` will rerun the Polygenic Risk Scores experiments.
+
+Experimental configuration (e.g., model ID of the trained MIFM model, UKB trait IDs) need to be specified in `src/snakemake_config.py`
